@@ -1,5 +1,7 @@
 [App Store link]: https://itunes.apple.com/us/app/meowlwatch-for-northwestern-university-dining/id1219875692
 
+To submit a support request, go to Settings > Submit Feedback in the app. Or, create a new issue on this repository.
+
 # [MeowlWatch][App Store link]
 [![](512.png)][App Store link]
 

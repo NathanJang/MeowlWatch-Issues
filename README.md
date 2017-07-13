@@ -3,7 +3,7 @@
 # [MeowlWatch][App Store link]
 [![](512.png)][App Store link]
 
-MeowlWatch (pronounced "meal-watch") makes it easy for students at Northwestern University to check their meal balances. Simply sign in with your NetID to see your remaining meals.
+[MeowlWatch][App Store Link] (pronounced "meal-watch") makes it easy for students at Northwestern University to check their meal balances. Simply sign in with your NetID to see your remaining meals.
 
 A widget is also available as an in-app purchase which you can add to your device's notification center. The widget refreshes automatically, giving you ultimate convenience when you need to check your balance.
 
